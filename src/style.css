@@ -7,10 +7,14 @@
   font-family: 'Space Grotesk', sans-serif;
   font-size: 18px;
 }
+.body {
+  height: 100vh;
+}
 .main-container {
   display: flex;
   flex-direction: row;
   gap: 5.5vw;
+  height: 100vh;
 }
 .bg-section {
   background-image: url(https://cdn.discordapp.com/attachments/882273267019296809/1074757354064711700/bg-main-desktop.png);
